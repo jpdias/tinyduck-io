@@ -1,5 +1,9 @@
 # duck2spark + PlatformIO
 
+<center>
+https://i.imgur.com/bc4t5mm.png
+</center>
+
 ## What?
 
 A Rubber Ducky is a device that acts as an USB Human Interface Device with the purpose of doing "stuff" (e.g. run a script) on a target machine. The original Rubber Ducky was created by [Hak5](http://www.hak5.org/) along with a simple DSL for quickly creating scripts known as Ducky Script ([see more](https://github.com/hak5darren/USB-Rubber-Ducky/wiki)). 
