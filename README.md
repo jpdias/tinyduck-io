@@ -1,8 +1,7 @@
 # duck2spark + PlatformIO
 
-<center>
-https://i.imgur.com/bc4t5mm.png
-</center>
+![https://i.imgur.com/bc4t5mm.png](https://i.imgur.com/bc4t5mm.png)
+
 
 ## What?
 
